@@ -39,9 +39,8 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 .button{
-    background-size: cover;
     color: white;
-    padding-left: 440px;
+    padding-left: 30px;
     padding-bottom: 2vh;
     padding-top: 2vh;
     background-color: black;
