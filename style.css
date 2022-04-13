@@ -39,6 +39,7 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 .button{
+    background-size: cover;
     color: white;
     padding-left: 440px;
     padding-bottom: 2vh;
